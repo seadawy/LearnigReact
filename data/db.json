@@ -1,0 +1,105 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Technology and Environment",
+            "author": "seadawy"
+        },
+        {
+            "id": 2,
+            "title": "Cooking with sangy",
+            "author": "saber"
+        },
+        {
+            "id": 3,
+            "title": "one piece is your uncle",
+            "author": "fasil"
+        },
+        {
+            "id": 4,
+            "title": "Exploring the Cosmos",
+            "author": "stellarvoyager"
+        },
+        {
+            "id": 5,
+            "title": "Artistic Adventures",
+            "author": "creativemind"
+        },
+        {
+            "id": 6,
+            "title": "Fitness Freaks Zone",
+            "author": "fitandfab"
+        },
+        {
+            "id": 7,
+            "title": "Travel Tales",
+            "author": "wanderlust"
+        },
+        {
+            "id": 8,
+            "title": "Financial Insights",
+            "author": "moneywise"
+        },
+        {
+            "id": 9,
+            "title": "Health & Wellness Hub",
+            "author": "wellbeingguru"
+        },
+        {
+            "id": 10,
+            "title": "Fashion Frenzy",
+            "author": "styleguru"
+        },
+        {
+            "id": 11,
+            "title": "Culinary Delights",
+            "author": "foodiechef"
+        },
+        {
+            "id": 12,
+            "title": "DIY Crafts Corner",
+            "author": "craftycreator"
+        },
+        {
+            "id": 13,
+            "title": "Literary Lounge",
+            "author": "bookworm"
+        },
+        {
+            "id": 14,
+            "title": "Gaming Galore",
+            "author": "gamemaster"
+        },
+        {
+            "id": 15,
+            "title": "Music Mania",
+            "author": "melodymaker"
+        },
+        {
+            "id": 16,
+            "title": "Pet Paradise",
+            "author": "animallover"
+        },
+        {
+            "id": 17,
+            "title": "Film Fanatics Forum",
+            "author": "cinephile"
+        },
+        {
+            "id": 18,
+            "title": "Mindfulness Matters",
+            "author": "zenmaster"
+        },
+        {
+            "id": 19,
+            "title": "Science Simplified",
+            "author": "sciencenerd"
+        },
+        {
+            "id": 20,
+            "title": "Motivational Musings",
+            "author": "inspireme"
+        }
+    ]
+    
+}
